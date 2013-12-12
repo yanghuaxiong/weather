@@ -1,5 +1,5 @@
-package com.example.common;
-
+﻿package com.example.common;
+//我做了修改
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
